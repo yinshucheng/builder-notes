@@ -14,6 +14,12 @@ by [Shucheng Yin](https://github.com/yinshucheng) (尹树成)
 | 02 | [Claude Code 深度解析（下）：MCP、Skills 与上下文工程](agent-engineering/02-claude-code-deep-dive-part2.md) | 2026-01 |
 | 03 | [Agent 迭代机制调研：Harness Engineering 全景](agent-engineering/03-agent-harness-engineering.md) | 2026-03 |
 
+## Product Design
+
+| # | Title | Date |
+|---|-------|------|
+| 01 | [Skill UI Layer — 从文本到小程序的展示层革命](product-design/01-skill-ui-layer.md) | 2026-04 |
+
 ## System Design
 
 *Coming soon*
